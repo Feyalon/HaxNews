@@ -1,0 +1,2 @@
+# HaxNews
+Made with Svelte! 
